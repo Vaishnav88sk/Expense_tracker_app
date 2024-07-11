@@ -1,20 +1,31 @@
-<<<<<<< HEAD
-# Expense_tracker_app
-=======
-# expense_tracker_app
+# TrackPocket App
 
-A new Flutter project.
+TrackPocket is a powerful and intuitive expense-tracking app built with Flutter and material3 design. It helps you manage your finances by keeping track of your spending and providing insights into your financial habits.
 
-## Getting Started
+## Features:
+ - **User-friendly interface**: Clean and easy-to-navigate interface.
+ - **Expense Tracking**: Quickly add and categorize your daily expenses.
+ - **Budget Management**
+ - **Adaptive and responsive user interface**
+ - **Toggle theme**: Day and Night
 
-This project is a starting point for a Flutter application.
+## Getting started**
+### Prerequisites
+  - Flutter SDK
+  - Dart SDK
+### Installation:
+  - Clone the repository
+     ```bash
+     git clone https://github.com/Vaishnav88sk/track-pocket-app.git
+     cd track-pocket-app
+  - Install the dependencies
+     ```bash
+     flutter pub get
+  - Run the app
+     ```bash
+     flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 103dae4 (Project uploaded)
+## Screenshots
+  
+     
+    
